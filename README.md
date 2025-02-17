@@ -7,6 +7,8 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 🏎️ Algorithm optimization—because milliseconds matter.
 🌩️ Cloud-native architectures—designing for a future of seamless scalability.
 🧩 Machine learning models—unlocking insights that reshape the world.
+
+
 🚀 Creative Collaborator: I thrive at the crossroads of technology and imagination, always looking to co-create futuristic solutions—whether it’s developing revolutionary web platforms or building AI-driven products that spark new ideas.
 
 📬 Get in touch: shrey9779@gmail.com
