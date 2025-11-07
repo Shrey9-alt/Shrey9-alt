@@ -41,14 +41,11 @@ Hey, Universe! 👋 I’m @Shrey9-alt
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="15%" alt="It's working but you don't know how!"/>
 </p>
 
-## 🌌 Code Galaxy
-> Every commit is a star — every repo, a constellation.
+## 📊 GitHub Insights
 
-![GitHub Constellation](https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=github-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=midnight-purple)
 
-🪐 Exploring the orbits of **AI**, **Machine Learning**, and **Quantum Code**.
-
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
 
 ---
