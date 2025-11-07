@@ -41,11 +41,10 @@ Hey, Universe! 👋 I’m @Shrey9-alt
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="15%" alt="It's working but you don't know how!"/>
 </p>
 
-## ⚙️ Developer Dashboard
+## 🧭 Featured Projects
+[![Privacy Shield](https://github-readme-stats.vercel.app/api/pin/?username=Shrey9-alt&repo=PrivacyShield&theme=omni)](https://github.com/Shrey9-alt/PrivacyShield)
+[![Crash Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Shrey9-alt&repo=CrashAnalyzer&theme=omni)](https://github.com/Shrey9-alt/CrashAnalyzer)
 
-![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight)
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrey9-alt&theme=tokyonight)
 
 
 
