@@ -16,7 +16,7 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: I see life as a recursive function with infinite potential—every loop makes me sharper, smarter, and stronger. Let’s iterate to infinity and beyond! 😎
+⚡ Fun Fact: Life’s my favorite recursive function — each loop makes me smarter and stronger.
 
 
 
