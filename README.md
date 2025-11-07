@@ -45,7 +45,7 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&theme=tokyonight)
 
-## ⚡ Activity Graph:
+## 📈 GitHub Activity Graph:
 [![Shreyansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
