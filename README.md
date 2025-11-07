@@ -42,11 +42,14 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&theme=tokyonight)
+## 🌌 Code Galaxy
+> Every commit is a star - every repo, a constellation.
 
-## ⏱️ Coding Stats (WakaTime):
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+![GitHub Constellation](https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=github-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=midnight-purple)
+
+🪐 Exploring the orbits of **AI**, **Machine Learning**, and **Quantum Code**.
+
 
 
 ---
