@@ -6,8 +6,8 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 💡 Tech Visionary in Training exploring the frontiers of AI, Machine Learning, and Quantum Computing to build intelligent systems that shape the future.
 
 🎯 Currently mastering:
-🏎️ Algorithm optimization where every millisecond counts
-🌩️ Quantum-driven computing that redefines speed, scale, and possibility
+🏎️ Algorithm optimization where every millisecond counts                 
+🌩️ Quantum-driven computing that redefines speed, scale, and possibility                       
 🧩 AI and Machine Learning transforming data into intelligent action
 
 🚀 Innovator at the crossroads of AI and creativity building future-ready systems that blend logic with imagination
