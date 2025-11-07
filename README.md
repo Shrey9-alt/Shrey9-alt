@@ -16,7 +16,7 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: Life’s my favorite recursive function — each loop makes me smarter and stronger.
+⚡ Fun Fact: Life’s my favorite recursive function - each loop makes me smarter and stronger.
 
 
 
