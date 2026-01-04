@@ -44,12 +44,16 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 
 ## 🏆 Language Mastery Trophies
+## 🛠️ Language Breakdown
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shrey9-alt&theme=tokyonight&rank=SSS,SS,S,AAA&row=1&column=3&margin-w=15&category=language" alt="Language Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&theme=tokyonight&show_icons=true&hide_border=true&langs_count=6" alt="Shrey's Top Languages" />
+</p>## 🛠️ Language Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&theme=tokyonight&show_icons=true&hide_border=true&langs_count=6" alt="Shrey's Top Languages" />
 </p>
+
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
 ---
