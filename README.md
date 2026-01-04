@@ -44,7 +44,7 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/Shrey9-alt?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%" />
 </p>
 
 
