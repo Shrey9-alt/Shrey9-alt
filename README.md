@@ -44,12 +44,13 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Languages%20Used&fontColor=ffffff&fontSize=36&animation=fadeIn" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-8b0e0c6a-8b09-4d7f-a2ab-3fcb0a933d3c.gif" width="700" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" />
 </p>
+
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
