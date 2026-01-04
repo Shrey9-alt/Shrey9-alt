@@ -44,7 +44,7 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=720&lines=Top+Languages+from+my+GitHub;Auto-updated+snapshot;Top+6+languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Languages%20Used&fontColor=ffffff&fontSize=36&animation=fadeIn" />
 </p>
 
 <p align="center">
