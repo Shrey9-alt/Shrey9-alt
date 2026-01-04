@@ -43,7 +43,10 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=midnight-purple&hide_border=true" />
+</p>
+
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
