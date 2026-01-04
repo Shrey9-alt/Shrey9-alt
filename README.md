@@ -42,11 +42,10 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
-## 🧬 Languages I Actually Use
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrey9-alt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 
 
