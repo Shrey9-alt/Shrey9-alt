@@ -43,12 +43,12 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Languages+I+use+in+real+projects;Systems+%7C+Backend+%7C+Apps;Always+learning%2C+always+building" />
-</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,swift,js,html,css&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"
+    alt="Top 6 languages used on GitHub"
+  />
 </p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
