@@ -42,7 +42,6 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Languages+Detected+from+GitHub;Auto-updated;Building+systems+daily" />
 </p>
@@ -51,6 +50,9 @@ Hey, Universe! 👋 I’m @Shrey9-alt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight" />
 </p>
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&cache_seconds=21600" />
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
