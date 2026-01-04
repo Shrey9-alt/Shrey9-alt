@@ -42,9 +42,17 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" />
+## 🧪 Languages Used
 
+```text
+> github languages --user Shrey9-alt
 
+Python        ██████████
+C             ████████░░
+Swift         ███████░░░
+C++           ██████░░░░
+JavaScript    █████░░░░░
+HTML/CSS      ████░░░░░░
 
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
