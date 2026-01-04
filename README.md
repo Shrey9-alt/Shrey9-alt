@@ -44,7 +44,13 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Mastering+Python;Architecting+in+C%2B%2B;Developing+with+Java;Optimizing+in+C;Building+with+JavaScript;Exploring+Quantum+Swift" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,swift&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
