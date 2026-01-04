@@ -42,11 +42,10 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
+## 🌀 Most Used Languages (Dynamic)
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,swift&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Donut Chart" />
 </p>
 
 <p align="center">
