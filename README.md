@@ -42,21 +42,16 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
-## 🧪 Languages Used
 
-```text
-> github languages --user Shrey9-alt
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Languages+I+use+in+real+projects;Systems+%7C+Backend+%7C+Apps;Always+learning%2C+always+building" />
+</p>
 
-Python        ██████████
-C             ████████░░
-Swift         ███████░░░
-C++           ██████░░░░
-JavaScript    █████░░░░░
-HTML/CSS      ████░░░░░░
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,swift,js,html,css&theme=dark" />
+</p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shrey9-alt&icon=0&color=0)](https://visitcount.itsvg.in)
