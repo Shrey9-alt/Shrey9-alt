@@ -42,10 +42,12 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 </p>
 
 ## 📊 GitHub Insights
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/Shrey9-alt?template=classic&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey9-alt&theme=tokyonight" />
 </p>
+
 
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
