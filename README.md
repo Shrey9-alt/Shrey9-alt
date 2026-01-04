@@ -45,11 +45,12 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 🧬 Languages I Actually Use
 
+## 🧬 Languages I Actually Use
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrey9-alt&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrey9-alt&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
