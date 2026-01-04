@@ -44,14 +44,11 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 ## 📊 GitHub Insights
 ## 🌀 Most Used Languages (Dynamic)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Donut Chart" />
-</p>
+## 📊 Development DNA
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrey9-alt&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Compact Language Bar" />
 </p>
-
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
 ---
