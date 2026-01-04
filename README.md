@@ -43,15 +43,8 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
-## 🏆 Language Mastery Trophies
-## 🛠️ Language Breakdown
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&theme=tokyonight&show_icons=true&hide_border=true&langs_count=6" alt="Shrey's Top Languages" />
-</p>## 🛠️ Language Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&theme=tokyonight&show_icons=true&hide_border=true&langs_count=6" alt="Shrey's Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Mastering+Python;Architecting+in+C%2B%2B;Developing+with+Java;Optimizing+in+C;Building+with+JavaScript;Exploring+Quantum+Swift" alt="Typing SVG" />
 </p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
