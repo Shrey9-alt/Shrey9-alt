@@ -43,10 +43,20 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
-## 🛠️ Language Breakdown
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&theme=tokyonight&hide_border=true&langs_count=6&layout=pie" alt="Pie Chart Breakdown" />
+  <img
+    src="https://metrics.lecoq.io/Shrey9-alt
+    ?template=classic
+    &base=0
+    &languages=1
+    &languages.limit=6
+    &languages.sections=most-used
+    &languages.details=percentage
+    &languages.indepth=true
+    &languages.colors=github
+    &config.display=large
+    &config.timezone=America/New_York"
+  />
 </p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
