@@ -43,9 +43,16 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
+## 🧬 Languages I Actually Use
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey9-alt&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Live+Top+Languages+from+my+GitHub;Auto+updated+based+on+my+repos;Top+6+Languages+Snapshot" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" />
+</p>
+
 
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
