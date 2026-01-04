@@ -43,7 +43,13 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 ## 📊 GitHub Insights
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey9-alt&langs_count=6&theme=tokyonight&layout=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,swift&theme=dark" alt="My Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shrey9-alt&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Language Stats" />
+</p>
 
 ![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey9-alt&theme=tokyonight)
 
