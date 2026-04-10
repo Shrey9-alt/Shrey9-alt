@@ -3,18 +3,23 @@
 </div>
 Hey, Universe! 👋 I’m @Shrey9-alt
 
-💡 Tech Visionary in Training exploring the frontiers of AI, Machine Learning, and Quantum Computing to build intelligent systems that shape the future.
+Hi, I’m Shrey 👋
 
-🎯 Currently mastering:                         
-🏎️ Algorithm optimization where every millisecond counts                 
-🌩️ Quantum-driven computing that redefines speed, scale, and possibility                       
-🧩 AI and Machine Learning transforming data into intelligent action
+Software Engineer building scalable distributed systems and high-performance backend services.
 
-🚀 Innovator at the crossroads of AI and creativity building future-ready systems that blend logic with imagination
+⚡ Currently working on:
+• Large-scale event-driven systems (Kafka, RabbitMQ)
+• ML-powered backend services (TensorFlow, FastAPI)
+• Cloud-native infrastructure (Kubernetes, AWS, Terraform)
 
-📬 Get in touch: shrey9779@gmail.com
+🚀 Interests:
+• Distributed systems & system design
+• AI/ML in production (not just experiments)
+• High-throughput, low-latency architectures
 
-😄 Pronouns: He/Him
+💡 I care about building systems that are reliable, scalable, and actually used in the real world.
+
+📫 Reach me: shrey9779@gmail.com
 
 ⚡ Fun Fact: Life’s my favorite recursive function - each loop makes me smarter and stronger.
 
