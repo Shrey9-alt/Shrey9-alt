@@ -3,8 +3,6 @@
 </div>
 Hey, Universe! 👋 I’m @Shrey9-alt
 
-Hi, I’m Shrey 👋
-
 Software Engineer building scalable distributed systems and high-performance backend services.
 
 ⚡ Currently working on:
