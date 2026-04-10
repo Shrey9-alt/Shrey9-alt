@@ -5,22 +5,32 @@ Hey, Universe! 👋 I’m @Shrey9-alt
 
 Software Engineer building scalable distributed systems and high-performance backend services.
 
-⚡ Currently working on:
-• Large-scale event-driven systems (Kafka, RabbitMQ)
-• ML-powered backend services (TensorFlow, FastAPI)
-• Cloud-native infrastructure (Kubernetes, AWS, Terraform)
+### ⚡ Currently Working On
+- Large-scale event-driven systems (Kafka, RabbitMQ)  
+- ML-powered backend services (TensorFlow, FastAPI)  
+- Cloud-native infrastructure (Kubernetes, AWS, Terraform)  
 
-🚀 Interests:
-• Distributed systems & system design
-• AI/ML in production (not just experiments)
-• High-throughput, low-latency architectures
+---
 
-💡 I care about building systems that are reliable, scalable, and actually used in the real world.
+### 🚀 Interests
+- Distributed systems & system design  
+- AI/ML in production (not just experiments)  
+- High-throughput, low-latency architectures  
 
-📫 Reach me: shrey9779@gmail.com
+---
 
-⚡ Fun Fact: Life’s my favorite recursive function - each loop makes me smarter and stronger.
+### 💡 Philosophy
+I care about building systems that are reliable, scalable, and actually used in the real world.
 
+---
+
+### 📫 Reach Me
+📧 shrey9779@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+Life’s my favorite recursive function — each loop makes me smarter and stronger.
 
 
 ## 🌐 Socials:
